@@ -209,3 +209,6 @@ Jika input tidak valid, program akan meminta pengguna untuk memilih menu lagi.
 ![foto](https://github.com/NadhiaShafira/labpy06/blob/27b485ebf22ea936ce7163ff5c4ab27a233c2063/Gambar%20WhatsApp%202024-12-03%20pukul%2019.20.27_56d6136a.jpg) 
 
 # Flow Chart alur penggunaan program
+
+![foto](https://github.com/NadhiaShafira/labpy06/blob/8048c8b8237227178db70192ef82e0a9418a9606/flowchart%201.jpg)
+![foto](
