@@ -47,18 +47,18 @@ Pilih menu sesuai kebutuhan dan ikuti instruksi yang muncul.
 **`Menambahkan data`**
 
 ``` python
-Masukkan nama mahasiswa: Andi
-Masukkan NIM mahasiswa: 12345
+Masukkan nama mahasiswa: Maudy
+Masukkan NIM mahasiswa: 250306
 Masukkan nilai mahasiswa: A
 ```
 **`menampilkan data`**
 
 ```python
-
-
-
-
-
+Data Mahasiswa:
+NIM             Nama                Nilai     
+-----------------------------------------------
+250306          Maudy                A         
+```
 
 # Penjelasan kode
 
@@ -198,3 +198,10 @@ Berdasarkan pilihan yang dimasukkan pengguna, fungsi yang sesuai akan dipanggil.
 Jika input tidak valid, program akan meminta pengguna untuk memilih menu lagi.
 
 7. **Menjalankan `program`**
+   
+   ```python
+   menu()
+   ```
+   Menjalankan fungsi `menu()` yang memulai seluruh alur program dan menampilkan menu kepada pengguna.
+
+# Hasil Interaksi Program 
